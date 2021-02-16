@@ -1,2 +1,3 @@
-# johnvak01.github.io
-public website, links to various projects within the doc.
+Welcome to my site
+
+<a href="/index.html">Site Index</a>
